@@ -14,5 +14,9 @@ authors:
   - family-names: Jia
     given-names: Zhongwei
 repository-code: "https://github.com/F1veZhang/BioEpi-SAFE-LSTM"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21194961
+    description: Processed data archive
 version: "0.1.0"
 license: "MIT"
