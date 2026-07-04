@@ -68,7 +68,11 @@ python scripts/run_all_reproducibility.py --root . --skip-safe-fusion --skip-sea
 
 ## Data notes
 
-This repository contains processed aggregate prediction files and result tables. Raw social-media posts, user identifiers, post text and profile metadata are not redistributed. The full reviewer data folder is listed in `data/reviewer_access/REVIEWER_DATA_LINK.txt` and should be replaced or supplemented by a persistent repository DOI before publication.
+Processed prediction files, fold calendars, evaluation outputs, quality-control summaries and supplementary data tables supporting the manuscript are archived at:
+
+https://doi.org/10.5281/zenodo.21194961
+
+This repository contains code, configuration files, checksums, selected processed prediction objects and result tables required to reproduce the reported analyses. Raw social-media posts, user identifiers, post text and profile metadata are not redistributed because of platform terms of service and privacy considerations.
 
 ## Main outputs
 
