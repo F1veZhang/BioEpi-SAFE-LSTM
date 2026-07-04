@@ -1,0 +1,30 @@
+{
+  "version": "v7_npj_breathable_display_figures",
+  "main_figures": [
+    "Figure_1_study_design_model.pdf",
+    "Figure_2_external_probabilistic_forecasts.pdf",
+    "Figure_3_main_probabilistic_performance.pdf",
+    "Figure_4_conditional_digital_utility.pdf",
+    "Figure_5_regional_components.pdf"
+  ],
+  "extended_figures": [
+    "Extended_Data_Figure_1_data_coverage.pdf",
+    "Extended_Data_Figure_2_ablation_components.pdf",
+    "Extended_Data_Figure_3_event_warning.pdf",
+    "Extended_Data_Figure_4_bootstrap_sensitivity.pdf",
+    "Extended_Data_Figure_5_source_expert_weights.pdf",
+    "Extended_Data_Figure_6_regional_calibration.pdf",
+    "Extended_Data_Figure_7_national_calibration.pdf"
+  ],
+  "tables": [
+    "figure3_models_vs_persistence_bootstrap.csv",
+    "figure3_safe_vs_comparators_bootstrap.csv",
+    "figure4_china_delay2_bootstrap.csv",
+    "figure4_delay_safe_vs_surveillance_bootstrap.csv",
+    "figure5_regional_robustness_relative_wis.csv",
+    "figure6_ablation_delta_wis.csv",
+    "supp_calibration_by_country_horizon.csv",
+    "supp_event_warning_national_only.csv"
+  ],
+  "note": "Breathable five-main-figure display redraw only; no model retraining or retuning."
+}

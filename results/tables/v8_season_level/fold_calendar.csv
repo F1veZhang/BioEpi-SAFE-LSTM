@@ -1,0 +1,9 @@
+﻿test_season,season_start,season_end,available_target_start,available_target_end,available_weeks,source_prediction_folds,complete_available_season,purge_gap_weeks,note
+2018/2019,2018-07-02,2019-06-24,2019-01-07,2019-06-24,25,rolling_window_cv:fold1,False,4,Season assignment is target-week based; underlying expert predictions are frozen rolling-origin outputs.
+2019/2020,2019-07-01,2020-06-22,2019-07-01,2020-06-22,52,rolling_window_cv:fold1,True,4,Season assignment is target-week based; underlying expert predictions are frozen rolling-origin outputs.
+2020/2021,2020-06-29,2021-06-28,2020-06-29,2021-06-28,53,rolling_window_cv:fold1;rolling_window_cv:fold2,True,4,Season assignment is target-week based; underlying expert predictions are frozen rolling-origin outputs.
+2021/2022,2021-07-05,2022-06-27,2021-07-05,2022-06-27,52,rolling_window_cv:fold2,True,4,Season assignment is target-week based; underlying expert predictions are frozen rolling-origin outputs.
+2022/2023,2022-07-04,2023-06-26,2022-07-04,2023-06-26,52,rolling_window_cv:fold2;rolling_window_cv:fold3,True,4,Season assignment is target-week based; underlying expert predictions are frozen rolling-origin outputs.
+2023/2024,2023-07-03,2024-06-24,2023-07-03,2024-06-24,52,rolling_window_cv:fold3,True,4,Season assignment is target-week based; underlying expert predictions are frozen rolling-origin outputs.
+2024/2025,2024-07-01,2025-06-23,2024-07-01,2025-06-23,52,rolling_window_cv:fold3;temporal_external_2025_2026:fold1,True,4,Season assignment is target-week based; underlying expert predictions are frozen rolling-origin outputs.
+2025/2026,2025-06-30,2026-06-22,2025-06-30,2026-04-27,44,temporal_external_2025_2026:fold1,False,4,Season assignment is target-week based; underlying expert predictions are frozen rolling-origin outputs.

@@ -1,0 +1,45 @@
+{
+  "version": "v8_season_level_evaluation_layer",
+  "created_from": "C:\\Users\\54095\\Documents\\流感监测\\bioepi_v7_work\\bioepi_final_revision_v7_package_20260625\\data\\expert_predictions_v6_common_scale_test.pkl.gz",
+  "evaluation_note": "Season-level summaries are target-week based and use frozen fold-specific expert predictions from v6/v7. This is not a complete re-training of one outer fold per influenza season.",
+  "season_definition": "ISO week 27 to ISO week 26 of the following ISO year",
+  "primary_metric": "country-season-balanced macro WIS",
+  "latest_period_role": "latest-period temporal evaluation, not the sole main result",
+  "delay_availability_note": "Delay 0 is available for rolling folds and latest-period external evaluation. Delay 1 and 2 are available only in the frozen latest-period external predictions.",
+  "tuning_note": "Loaded fixed v7 SAFE parameters; no tuning on v8 season summaries.",
+  "safe_params": {
+    "eta": 0.5,
+    "decay": 0.95,
+    "margin": 0.05,
+    "max_digital": 0.5,
+    "min_resolved": 4,
+    "loss_clip": 5.0
+  },
+  "bootstrap_reps": 2000,
+  "bootstrap_blocks": [
+    4,
+    8,
+    13
+  ],
+  "tables": [
+    "ablation_metrics_rolling_season.csv",
+    "bootstrap_wis_delta_by_model.csv",
+    "delay_scenario_metrics_all_folds.csv",
+    "event_warning_metrics_rolling_cv.csv",
+    "fold_calendar.csv",
+    "latest_period_temporal_evaluation_predictions.csv.gz",
+    "metrics_by_phase.csv",
+    "metrics_by_test_season.csv",
+    "metrics_rolling_cv_country_season_balanced.csv",
+    "predictions_rolling_season_cv.csv.gz",
+    "regional_robustness_metrics.csv",
+    "source_expert_weights_rolling_season.csv.gz"
+  ],
+  "figures": [
+    "Figure_1_v8_rolling_season_calendar.pdf",
+    "Figure_2_v8_latest_period_probabilistic_forecasts.pdf",
+    "Figure_3_v8_rolling_season_performance.pdf",
+    "Figure_4_v8_conditional_digital_utility.pdf",
+    "Figure_5_v8_regional_components.pdf"
+  ]
+}

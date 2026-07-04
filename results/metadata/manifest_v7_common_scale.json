@@ -1,0 +1,48 @@
+{
+  "model": "bioepi_safe_lstm_common_scale",
+  "display_name": "BioEpi-SAFE-LSTM",
+  "common_scale_reference": "bioepi_sgq_lstm_no_digital",
+  "common_scale_note": "All raw expert quantiles and targets are transformed with the no-digital SGQ-LSTM training scaler before WIS comparison and fusion.",
+  "selected_params": {
+    "eta": 0.5,
+    "decay": 0.95,
+    "margin": 0.05,
+    "max_digital": 0.5,
+    "min_resolved": 4,
+    "loss_clip": 5.0
+  },
+  "selection": "predefined safety grid on rolling fold 2; minimum four resolved outcomes before digital activation",
+  "internal_validation": "locked held-out rolling fold 3",
+  "external_evaluation": "2025-2026 temporal evaluation; not called untouched",
+  "online_update_rule": "Weights are updated only after prior targets become observable, including the simulated reporting delay. No future outcomes are used.",
+  "bootstrap_reps": 2000,
+  "bootstrap_blocks": [
+    4,
+    8,
+    13
+  ],
+  "headline_scope": "national-only, country-balanced",
+  "regional_scope": "China North/South and USA HHS1-HHS10 reported separately",
+  "experts": {
+    "CHN": [
+      "bioepi_sgq_lstm_no_digital",
+      "bioepi_sgq_lstm_full_raw",
+      "ridge_raw_cn_search",
+      "gb_full_raw"
+    ],
+    "JPN": [
+      "bioepi_sgq_lstm_no_digital",
+      "bioepi_sgq_lstm_full_raw",
+      "ridge_google_wiki",
+      "gb_full_raw"
+    ],
+    "USA": [
+      "bioepi_sgq_lstm_no_digital",
+      "bioepi_sgq_lstm_full_raw",
+      "ridge_google_wiki",
+      "ridge_social_raw",
+      "ridge_global_open",
+      "gb_full_raw"
+    ]
+  }
+}

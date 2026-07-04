@@ -1,0 +1,4 @@
+﻿country,start,end,weeks,google_weeks,wiki_weeks,baidu_weeks,toutiao_weeks,douyin_weeks,weibo_weeks,twitter_weeks,mean_sources_available
+CHN,2013-12-30,2026-05-11,646,0,568,646,385,385,523,0,3.8808049535603715
+JPN,2013-12-30,2026-05-11,646,646,568,0,0,0,0,0,1.8792569659442724
+USA,2013-12-30,2026-05-11,646,646,568,0,0,0,0,560,2.7461300309597525

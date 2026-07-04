@@ -1,0 +1,17 @@
+name: bioepi-safe-lstm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - pyyaml
+  - tqdm
+  - pip:
+      - torch

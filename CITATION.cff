@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "BioEpi-SAFE-LSTM reproducibility code"
+message: "Please cite the manuscript and this repository release."
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Jianyi
+  - family-names: Cui
+    given-names: Haoliang
+  - family-names: Yan
+    given-names: Xiangyu
+  - family-names: Luo
+    given-names: Wenkai
+  - family-names: Jia
+    given-names: Zhongwei
+repository-code: "https://github.com/F1veZhang/BioEpi-SAFE-LSTM"
+version: "0.1.0"
+license: "MIT"

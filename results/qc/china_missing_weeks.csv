@@ -1,0 +1,7 @@
+﻿country,region,week_start,week_end,iso_year,iso_week,target,target_name,target_unit,source,data_status,source_week_year,source_week,source_url,source_file,notes
+CHN,national,2018-12-31,2019-01-06,2019,1,,ILI_percent,% outpatient/emergency visits due to ILI,aligned_data_china_complete,missing_in_base,2019,1,,aligned_data_china_complete(1).csv,national = 0.596*south + 0.404*north for CNIC extension
+CHN,northern_provinces,2018-12-31,2019-01-06,2019,1,,ILI_percent,% outpatient/emergency visits due to ILI,aligned_data_china_complete,missing_in_base,2019,1,,aligned_data_china_complete(1).csv,
+CHN,southern_provinces,2018-12-31,2019-01-06,2019,1,,ILI_percent,% outpatient/emergency visits due to ILI,aligned_data_china_complete,missing_in_base,2019,1,,aligned_data_china_complete(1).csv,
+CHN,national,2025-01-27,2025-02-02,2025,5,,ILI_percent,% outpatient/emergency visits due to ILI,,missing_no_observed_source,2025,5,,,national = 0.596*south + 0.404*north for CNIC extension
+CHN,northern_provinces,2025-01-27,2025-02-02,2025,5,,ILI_percent,% outpatient/emergency visits due to ILI,,missing_no_observed_source,2025,5,,,
+CHN,southern_provinces,2025-01-27,2025-02-02,2025,5,,ILI_percent,% outpatient/emergency visits due to ILI,,missing_no_observed_source,2025,5,,,

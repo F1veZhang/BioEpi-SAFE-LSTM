@@ -1,0 +1,509 @@
+evaluation,official_delay_weeks,country,region,horizon,variant,expert,expert_label,mean,std,min,max,count
+rolling_window_cv,0,CHN,national,1,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.31683168316831684,0.24210299747450176,0.0,0.5,101
+rolling_window_cv,0,CHN,national,1,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.594059405940594,0.19637809561059388,0.5,1.0,101
+rolling_window_cv,0,CHN,national,1,full,gb_full_raw,Digital gradient-boosting expert,0.038068538379340475,0.09500331312149184,0.0,0.5,101
+rolling_window_cv,0,CHN,national,1,full,ridge_raw_cn_search,China local-search expert,0.05104037251174864,0.12003724700695868,0.0,0.5,101
+rolling_window_cv,0,CHN,national,2,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.2607152603927839,0.2436317089966489,0.0,0.5,101
+rolling_window_cv,0,CHN,national,2,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6237623762376238,0.21686332785950005,0.5,1.0,101
+rolling_window_cv,0,CHN,national,2,full,gb_full_raw,Digital gradient-boosting expert,0.08259164176997309,0.15904507009380078,0.0,0.5,101
+rolling_window_cv,0,CHN,national,2,full,ridge_raw_cn_search,China local-search expert,0.03293072159961924,0.09202132273047896,0.0,0.5,101
+rolling_window_cv,0,CHN,national,3,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.19792781602732695,0.20925039862781145,0.0,0.5,101
+rolling_window_cv,0,CHN,national,3,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5792079207920792,0.18347579223601593,0.5,1.0,101
+rolling_window_cv,0,CHN,national,3,full,gb_full_raw,Digital gradient-boosting expert,0.1039203173027107,0.15092677603579796,0.0,0.5,101
+rolling_window_cv,0,CHN,national,3,full,ridge_raw_cn_search,China local-search expert,0.11894394587788314,0.1525563552399674,0.0,0.5,101
+rolling_window_cv,0,CHN,national,4,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.1064656810899158,0.17817859449467485,0.0,0.5,101
+rolling_window_cv,0,CHN,national,4,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.599009900990099,0.2002473717704932,0.5,1.0,101
+rolling_window_cv,0,CHN,national,4,full,gb_full_raw,Digital gradient-boosting expert,0.15679348844418725,0.1845331379032833,0.0,0.5,101
+rolling_window_cv,0,CHN,national,4,full,ridge_raw_cn_search,China local-search expert,0.13773092947579793,0.17273796361602275,0.0,0.5,101
+rolling_window_cv,0,JPN,national,1,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0,0.0,0.0,0.0,101
+rolling_window_cv,0,JPN,national,1,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,101
+rolling_window_cv,0,JPN,national,1,full,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,101
+rolling_window_cv,0,JPN,national,1,full,ridge_google_wiki,Google/Wikipedia expert,0.0,0.0,0.0,0.0,101
+rolling_window_cv,0,JPN,national,2,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0,0.0,0.0,0.0,101
+rolling_window_cv,0,JPN,national,2,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8415841584158416,0.23378080619788838,0.5,1.0,101
+rolling_window_cv,0,JPN,national,2,full,gb_full_raw,Digital gradient-boosting expert,0.0049504950495049506,0.049751859510499465,0.0,0.5,101
+rolling_window_cv,0,JPN,national,2,full,ridge_google_wiki,Google/Wikipedia expert,0.15346534653465346,0.23176037471303998,0.0,0.5,101
+rolling_window_cv,0,JPN,national,3,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.31515294289933793,0.2267696509259888,0.0,0.5,101
+rolling_window_cv,0,JPN,national,3,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6336633663366337,0.22238580337907016,0.5,1.0,101
+rolling_window_cv,0,JPN,national,3,full,gb_full_raw,Digital gradient-boosting expert,0.014487411383822184,0.05859184005112204,0.0,0.2713792169339543,101
+rolling_window_cv,0,JPN,national,3,full,ridge_google_wiki,Google/Wikipedia expert,0.0366962793802062,0.11341674592332249,0.0,0.5,101
+rolling_window_cv,0,JPN,national,4,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.10066152295838995,0.19688781440977274,0.0,0.5,101
+rolling_window_cv,0,JPN,national,4,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6237623762376238,0.21686332785950013,0.5,1.0,101
+rolling_window_cv,0,JPN,national,4,full,gb_full_raw,Digital gradient-boosting expert,0.15891531993107852,0.2032516835520642,0.0,0.5,101
+rolling_window_cv,0,JPN,national,4,full,ridge_google_wiki,Google/Wikipedia expert,0.11666078087290775,0.183217567861344,0.0,0.5,101
+rolling_window_cv,0,USA,national,1,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.1449549382215662,0.22349881945415356,0.0,0.5,101
+rolling_window_cv,0,USA,national,1,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8415841584158416,0.23378080619788838,0.5,1.0,101
+rolling_window_cv,0,USA,national,1,full,gb_full_raw,Digital gradient-boosting expert,0.0009515001549966095,0.009562458211193175,0.0,0.09610151565465756,101
+rolling_window_cv,0,USA,national,1,full,ridge_global_open,Global open-data expert,0.0022323423225179516,0.01585858520839921,0.0,0.12357770826764396,101
+rolling_window_cv,0,USA,national,1,full,ridge_google_wiki,Google/Wikipedia expert,0.006441584111194192,0.033550451223316874,0.0,0.24445271447462327,101
+rolling_window_cv,0,USA,national,1,full,ridge_social_raw,Social-media expert,0.0038354767738834864,0.02248017173909687,0.0,0.16313191968697624,101
+rolling_window_cv,0,USA,national,2,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.12429304457259133,0.21256507261008542,0.0,0.5,101
+rolling_window_cv,0,USA,national,2,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8613861386138614,0.22493123261552758,0.5,1.0,101
+rolling_window_cv,0,USA,national,2,full,gb_full_raw,Digital gradient-boosting expert,0.0034454436629845465,0.01979102900319802,0.0,0.11677358723350284,101
+rolling_window_cv,0,USA,national,2,full,ridge_global_open,Global open-data expert,0.005487213147495271,0.02728251417186002,0.0,0.16093535342727616,101
+rolling_window_cv,0,USA,national,2,full,ridge_google_wiki,Google/Wikipedia expert,0.005388160003067472,0.026824259707518398,0.0,0.1612373405392576,101
+rolling_window_cv,0,USA,national,2,full,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,101
+rolling_window_cv,0,USA,national,3,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.13882260045005032,0.22224594216738955,0.0,0.5,101
+rolling_window_cv,0,USA,national,3,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8564356435643564,0.22733932417606875,0.5,1.0,101
+rolling_window_cv,0,USA,national,3,full,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,101
+rolling_window_cv,0,USA,national,3,full,ridge_global_open,Global open-data expert,0.004741755985593235,0.03352841783720359,0.0,0.2411129530926167,101
+rolling_window_cv,0,USA,national,3,full,ridge_google_wiki,Google/Wikipedia expert,0.0,0.0,0.0,0.0,101
+rolling_window_cv,0,USA,national,3,full,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,101
+rolling_window_cv,0,USA,national,4,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.09405940594059406,0.19637809561059394,0.0,0.5,101
+rolling_window_cv,0,USA,national,4,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.905940594059406,0.19637809561059383,0.5,1.0,101
+rolling_window_cv,0,USA,national,4,full,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,101
+rolling_window_cv,0,USA,national,4,full,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,101
+rolling_window_cv,0,USA,national,4,full,ridge_google_wiki,Google/Wikipedia expert,0.0,0.0,0.0,0.0,101
+rolling_window_cv,0,USA,national,4,full,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,101
+temporal_external_2025_2026,0,CHN,national,1,base_only,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,1,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.08333333333333333,0.08367140098245492,0.0,0.16666666666666666,124
+temporal_external_2025_2026,0,CHN,national,1,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.75,0.2510142029473648,0.5,1.0,124
+temporal_external_2025_2026,0,CHN,national,1,full,gb_full_raw,Digital gradient-boosting expert,0.08333333333333333,0.08367140098245492,0.0,0.16666666666666666,124
+temporal_external_2025_2026,0,CHN,national,1,full,ridge_raw_cn_search,China local-search expert,0.08333333333333333,0.08367140098245492,0.0,0.16666666666666666,124
+temporal_external_2025_2026,0,CHN,national,1,no_china_local_search,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_china_local_search,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_china_local_search,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_full_lstm_expert,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_full_lstm_expert,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_full_lstm_expert,ridge_raw_cn_search,China local-search expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_google_wiki,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_google_wiki,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_google_wiki,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_google_wiki,ridge_raw_cn_search,China local-search expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_gradient_boosting,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_gradient_boosting,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_gradient_boosting,ridge_raw_cn_search,China local-search expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_social,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_social,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_social,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_social,ridge_raw_cn_search,China local-search expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_source_specific_ridge,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_source_specific_ridge,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,1,no_source_specific_ridge,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,2,base_only,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,2,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.08333333333333333,0.08367140098245492,0.0,0.16666666666666666,124
+temporal_external_2025_2026,0,CHN,national,2,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.75,0.2510142029473648,0.5,1.0,124
+temporal_external_2025_2026,0,CHN,national,2,full,gb_full_raw,Digital gradient-boosting expert,0.08333333333333333,0.08367140098245492,0.0,0.16666666666666666,124
+temporal_external_2025_2026,0,CHN,national,2,full,ridge_raw_cn_search,China local-search expert,0.08333333333333333,0.08367140098245492,0.0,0.16666666666666666,124
+temporal_external_2025_2026,0,CHN,national,2,no_china_local_search,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_china_local_search,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_china_local_search,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_full_lstm_expert,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_full_lstm_expert,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_full_lstm_expert,ridge_raw_cn_search,China local-search expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_google_wiki,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_google_wiki,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_google_wiki,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_google_wiki,ridge_raw_cn_search,China local-search expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_gradient_boosting,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_gradient_boosting,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_gradient_boosting,ridge_raw_cn_search,China local-search expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_social,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_social,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_social,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_social,ridge_raw_cn_search,China local-search expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_source_specific_ridge,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_source_specific_ridge,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,2,no_source_specific_ridge,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,3,base_only,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,3,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.1639784946236559,0.16596583132380524,0.0,0.5,124
+temporal_external_2025_2026,0,CHN,national,3,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6693548387096774,0.23759548165574584,0.5,1.0,124
+temporal_external_2025_2026,0,CHN,national,3,full,gb_full_raw,Digital gradient-boosting expert,0.08333333333333333,0.08367140098245492,0.0,0.16666666666666666,124
+temporal_external_2025_2026,0,CHN,national,3,full,ridge_raw_cn_search,China local-search expert,0.08333333333333333,0.08367140098245492,0.0,0.16666666666666666,124
+temporal_external_2025_2026,0,CHN,national,3,no_china_local_search,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.16129032258064516,0.23563993003335354,0.0,0.5,62
+temporal_external_2025_2026,0,CHN,national,3,no_china_local_search,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8387096774193549,0.23563993003335348,0.5,1.0,62
+temporal_external_2025_2026,0,CHN,national,3,no_china_local_search,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,3,no_full_lstm_expert,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,3,no_full_lstm_expert,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,3,no_full_lstm_expert,ridge_raw_cn_search,China local-search expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,3,no_google_wiki,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.16129032258064516,0.23563993003335354,0.0,0.5,62
+temporal_external_2025_2026,0,CHN,national,3,no_google_wiki,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8387096774193549,0.23563993003335348,0.5,1.0,62
+temporal_external_2025_2026,0,CHN,national,3,no_google_wiki,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,3,no_google_wiki,ridge_raw_cn_search,China local-search expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,3,no_gradient_boosting,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.16129032258064516,0.23563993003335354,0.0,0.5,62
+temporal_external_2025_2026,0,CHN,national,3,no_gradient_boosting,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8387096774193549,0.23563993003335348,0.5,1.0,62
+temporal_external_2025_2026,0,CHN,national,3,no_gradient_boosting,ridge_raw_cn_search,China local-search expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,3,no_social,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.16129032258064516,0.23563993003335354,0.0,0.5,62
+temporal_external_2025_2026,0,CHN,national,3,no_social,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8387096774193549,0.23563993003335348,0.5,1.0,62
+temporal_external_2025_2026,0,CHN,national,3,no_social,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,3,no_social,ridge_raw_cn_search,China local-search expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,3,no_source_specific_ridge,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.16129032258064516,0.23563993003335354,0.0,0.5,62
+temporal_external_2025_2026,0,CHN,national,3,no_source_specific_ridge,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8387096774193549,0.23563993003335348,0.5,1.0,62
+temporal_external_2025_2026,0,CHN,national,3,no_source_specific_ridge,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,4,base_only,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,62
+temporal_external_2025_2026,0,CHN,national,4,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.1881720430107527,0.17649572690278656,0.0,0.5,124
+temporal_external_2025_2026,0,CHN,national,4,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6370967741935484,0.2239583809824357,0.5,1.0,124
+temporal_external_2025_2026,0,CHN,national,4,full,gb_full_raw,Digital gradient-boosting expert,0.08333333333333333,0.08367140098245492,0.0,0.16666666666666666,124
+temporal_external_2025_2026,0,CHN,national,4,full,ridge_raw_cn_search,China local-search expert,0.09139784946236558,0.09821082053855884,0.0,0.5,124
+temporal_external_2025_2026,0,CHN,national,4,no_china_local_search,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.20967741935483872,0.24874088000044348,0.0,0.5,62
+temporal_external_2025_2026,0,CHN,national,4,no_china_local_search,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.7903225806451613,0.2487408800004434,0.5,1.0,62
+temporal_external_2025_2026,0,CHN,national,4,no_china_local_search,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,4,no_full_lstm_expert,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.9838709677419355,0.08906352197498764,0.5,1.0,62
+temporal_external_2025_2026,0,CHN,national,4,no_full_lstm_expert,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,4,no_full_lstm_expert,ridge_raw_cn_search,China local-search expert,0.016129032258064516,0.08906352197498764,0.0,0.5,62
+temporal_external_2025_2026,0,CHN,national,4,no_google_wiki,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.20967741935483872,0.24874088000044348,0.0,0.5,62
+temporal_external_2025_2026,0,CHN,national,4,no_google_wiki,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.7741935483870968,0.2508578618320347,0.5,1.0,62
+temporal_external_2025_2026,0,CHN,national,4,no_google_wiki,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,4,no_google_wiki,ridge_raw_cn_search,China local-search expert,0.016129032258064516,0.08906352197498764,0.0,0.5,62
+temporal_external_2025_2026,0,CHN,national,4,no_gradient_boosting,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.20967741935483872,0.24874088000044348,0.0,0.5,62
+temporal_external_2025_2026,0,CHN,national,4,no_gradient_boosting,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.7741935483870968,0.2508578618320347,0.5,1.0,62
+temporal_external_2025_2026,0,CHN,national,4,no_gradient_boosting,ridge_raw_cn_search,China local-search expert,0.016129032258064516,0.08906352197498764,0.0,0.5,62
+temporal_external_2025_2026,0,CHN,national,4,no_social,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.20967741935483872,0.24874088000044348,0.0,0.5,62
+temporal_external_2025_2026,0,CHN,national,4,no_social,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.7741935483870968,0.2508578618320347,0.5,1.0,62
+temporal_external_2025_2026,0,CHN,national,4,no_social,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,CHN,national,4,no_social,ridge_raw_cn_search,China local-search expert,0.016129032258064516,0.08906352197498764,0.0,0.5,62
+temporal_external_2025_2026,0,CHN,national,4,no_source_specific_ridge,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.20967741935483872,0.24874088000044348,0.0,0.5,62
+temporal_external_2025_2026,0,CHN,national,4,no_source_specific_ridge,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.7903225806451613,0.2487408800004434,0.5,1.0,62
+temporal_external_2025_2026,0,CHN,national,4,no_source_specific_ridge,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,0,JPN,national,1,base_only,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,67
+temporal_external_2025_2026,0,JPN,national,1,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.12029329386077615,0.09785718885127113,0.0,0.5,134
+temporal_external_2025_2026,0,JPN,national,1,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5410447761194029,0.13776556668298276,0.5,1.0,134
+temporal_external_2025_2026,0,JPN,national,1,full,gb_full_raw,Digital gradient-boosting expert,0.21055247728350243,0.15798274236582202,0.0,0.5,134
+temporal_external_2025_2026,0,JPN,national,1,full,ridge_google_wiki,Google/Wikipedia expert,0.12810945273631838,0.14147182400039,0.0,0.5,134
+temporal_external_2025_2026,0,JPN,national,1,no_china_local_search,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.07391992105488565,0.12219248916747963,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,1,no_china_local_search,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.582089552238806,0.1866169087911548,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,1,no_china_local_search,gb_full_raw,Digital gradient-boosting expert,0.2544382879003382,0.21537168399856918,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,1,no_china_local_search,ridge_google_wiki,Google/Wikipedia expert,0.08955223880597014,0.19316685232156391,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,1,no_full_lstm_expert,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5895522388059702,0.19316685232156403,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,1,no_full_lstm_expert,gb_full_raw,Digital gradient-boosting expert,0.3208955223880597,0.2415463525582464,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,1,no_full_lstm_expert,ridge_google_wiki,Google/Wikipedia expert,0.08955223880597014,0.19316685232156391,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,1,no_google_wiki,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.07391992105488565,0.12219248916747963,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,1,no_google_wiki,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6716417910447762,0.2391943359451865,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,1,no_google_wiki,gb_full_raw,Digital gradient-boosting expert,0.2544382879003382,0.21537168399856918,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,1,no_gradient_boosting,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.1417910447761194,0.22706910824369936,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,1,no_gradient_boosting,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.7686567164179104,0.25118443979497485,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,1,no_gradient_boosting,ridge_google_wiki,Google/Wikipedia expert,0.08955223880597014,0.19316685232156391,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,1,no_social,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.07391992105488565,0.12219248916747963,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,1,no_social,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.582089552238806,0.1866169087911548,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,1,no_social,gb_full_raw,Digital gradient-boosting expert,0.2544382879003382,0.21537168399856918,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,1,no_social,ridge_google_wiki,Google/Wikipedia expert,0.08955223880597014,0.19316685232156391,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,1,no_source_specific_ridge,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.07391992105488565,0.12219248916747963,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,1,no_source_specific_ridge,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6716417910447762,0.2391943359451865,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,1,no_source_specific_ridge,gb_full_raw,Digital gradient-boosting expert,0.2544382879003382,0.21537168399856918,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,2,base_only,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,67
+temporal_external_2025_2026,0,JPN,national,2,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.1974994379265588,0.16895895298387614,0.0,0.5,134
+temporal_external_2025_2026,0,JPN,national,2,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5186567164179104,0.09511995627821808,0.5,1.0,134
+temporal_external_2025_2026,0,JPN,national,2,full,gb_full_raw,Digital gradient-boosting expert,0.16557618377922487,0.12407114611686247,0.0,0.5,134
+temporal_external_2025_2026,0,JPN,national,2,full,ridge_google_wiki,Google/Wikipedia expert,0.11826766187630586,0.09134914338904951,0.0,0.2784715010866513,134
+temporal_external_2025_2026,0,JPN,national,2,no_china_local_search,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.22833220918645095,0.2357894407872212,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,2,no_china_local_search,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5373134328358209,0.1323858237575931,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,2,no_china_local_search,gb_full_raw,Digital gradient-boosting expert,0.1644857008917831,0.17611962232328912,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,2,no_china_local_search,ridge_google_wiki,Google/Wikipedia expert,0.06986865708594504,0.10981737227013834,0.0,0.2784715010866513,67
+temporal_external_2025_2026,0,JPN,national,2,no_full_lstm_expert,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.7388059701492538,0.2516341884806238,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,2,no_full_lstm_expert,gb_full_raw,Digital gradient-boosting expert,0.19013131829519267,0.2031044609972252,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,2,no_full_lstm_expert,ridge_google_wiki,Google/Wikipedia expert,0.0710627115555536,0.11129377921342386,0.0,0.2784715010866513,67
+temporal_external_2025_2026,0,JPN,national,2,no_google_wiki,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.22953316993467796,0.23565747939700596,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,2,no_google_wiki,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5373134328358209,0.1323858237575931,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,2,no_google_wiki,gb_full_raw,Digital gradient-boosting expert,0.23315339722950115,0.23594825156699908,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,2,no_gradient_boosting,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.25744067309039925,0.24988763575049427,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,2,no_gradient_boosting,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5970149253731343,0.19921828233443398,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,2,no_gradient_boosting,ridge_google_wiki,Google/Wikipedia expert,0.14554440153646644,0.2267680382041596,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,2,no_social,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.22833220918645095,0.2357894407872212,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,2,no_social,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5373134328358209,0.1323858237575931,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,2,no_social,gb_full_raw,Digital gradient-boosting expert,0.1644857008917831,0.17611962232328912,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,2,no_social,ridge_google_wiki,Google/Wikipedia expert,0.06986865708594504,0.10981737227013834,0.0,0.2784715010866513,67
+temporal_external_2025_2026,0,JPN,national,2,no_source_specific_ridge,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.22953316993467796,0.23565747939700596,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,2,no_source_specific_ridge,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5373134328358209,0.1323858237575931,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,2,no_source_specific_ridge,gb_full_raw,Digital gradient-boosting expert,0.23315339722950115,0.23594825156699908,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,3,base_only,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,67
+temporal_external_2025_2026,0,JPN,national,3,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.1443424449609325,0.07235143143012537,0.0,0.2520103009743874,134
+temporal_external_2025_2026,0,JPN,national,3,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5223880597014925,0.10379403480387789,0.5,1.0,134
+temporal_external_2025_2026,0,JPN,national,3,full,gb_full_raw,Digital gradient-boosting expert,0.2082735586471305,0.09488616182443765,0.0,0.5,134
+temporal_external_2025_2026,0,JPN,national,3,full,ridge_google_wiki,Google/Wikipedia expert,0.12499593669044443,0.07896633507168707,0.0,0.2614306143173036,134
+temporal_external_2025_2026,0,JPN,national,3,no_china_local_search,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.12201822325519836,0.09765720376923229,0.0,0.2520103009743874,67
+temporal_external_2025_2026,0,JPN,national,3,no_china_local_search,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5447761194029851,0.14384712222561707,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,3,no_china_local_search,gb_full_raw,Digital gradient-boosting expert,0.2498804506275944,0.12094815751356618,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,3,no_china_local_search,ridge_google_wiki,Google/Wikipedia expert,0.0833252067142222,0.09508062377922825,0.0,0.2614306143173036,67
+temporal_external_2025_2026,0,JPN,national,3,no_full_lstm_expert,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5447761194029851,0.14384712222561707,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,3,no_full_lstm_expert,gb_full_raw,Digital gradient-boosting expert,0.3532758202451101,0.15798657725599968,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,3,no_full_lstm_expert,ridge_google_wiki,Google/Wikipedia expert,0.1019480603519048,0.11634332600975085,0.0,0.2947091204437481,67
+temporal_external_2025_2026,0,JPN,national,3,no_google_wiki,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.14519157547584688,0.09903002325494555,0.0,0.2520103009743874,67
+temporal_external_2025_2026,0,JPN,national,3,no_google_wiki,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5447761194029851,0.14384712222561707,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,3,no_google_wiki,gb_full_raw,Digital gradient-boosting expert,0.3100323051211681,0.13152834654286027,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,3,no_gradient_boosting,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.2398144148194335,0.20369077293587812,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,3,no_gradient_boosting,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6044776119402985,0.20481539050606076,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,3,no_gradient_boosting,ridge_google_wiki,Google/Wikipedia expert,0.15570797324026797,0.18047035992574567,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,3,no_social,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.12201822325519836,0.09765720376923229,0.0,0.2520103009743874,67
+temporal_external_2025_2026,0,JPN,national,3,no_social,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5447761194029851,0.14384712222561707,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,3,no_social,gb_full_raw,Digital gradient-boosting expert,0.2498804506275944,0.12094815751356618,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,3,no_social,ridge_google_wiki,Google/Wikipedia expert,0.0833252067142222,0.09508062377922825,0.0,0.2614306143173036,67
+temporal_external_2025_2026,0,JPN,national,3,no_source_specific_ridge,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.14519157547584688,0.09903002325494555,0.0,0.2520103009743874,67
+temporal_external_2025_2026,0,JPN,national,3,no_source_specific_ridge,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5447761194029851,0.14384712222561707,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,3,no_source_specific_ridge,gb_full_raw,Digital gradient-boosting expert,0.3100323051211681,0.13152834654286027,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,4,base_only,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,67
+temporal_external_2025_2026,0,JPN,national,4,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.11661574526309472,0.08692458119005834,0.0,0.23549720019288917,134
+temporal_external_2025_2026,0,JPN,national,4,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5261194029850746,0.11167158110597601,0.5,1.0,134
+temporal_external_2025_2026,0,JPN,national,4,full,gb_full_raw,Digital gradient-boosting expert,0.2244850704585245,0.10530270339442359,0.0,0.5,134
+temporal_external_2025_2026,0,JPN,national,4,full,ridge_google_wiki,Google/Wikipedia expert,0.13277978129330612,0.08182891893496802,0.0,0.2601123612469037,134
+temporal_external_2025_2026,0,JPN,national,4,no_china_local_search,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0665648238595228,0.10069829827152012,0.0,0.23549720019288917,67
+temporal_external_2025_2026,0,JPN,national,4,no_china_local_search,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5522388059701493,0.15409384090421435,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,4,no_china_local_search,gb_full_raw,Digital gradient-boosting expert,0.2823034742503824,0.12473207680962593,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,4,no_china_local_search,ridge_google_wiki,Google/Wikipedia expert,0.09889289591994557,0.10565017019515795,0.0,0.2601123612469037,67
+temporal_external_2025_2026,0,JPN,national,4,no_full_lstm_expert,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5522388059701493,0.15409384090421435,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,4,no_full_lstm_expert,gb_full_raw,Digital gradient-boosting expert,0.34714108139854877,0.1563079601494858,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,4,no_full_lstm_expert,ridge_google_wiki,Google/Wikipedia expert,0.10062011263130201,0.10657906327718544,0.0,0.2601123612469037,67
+temporal_external_2025_2026,0,JPN,national,4,no_google_wiki,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.06850539861616631,0.10141302834067233,0.0,0.23549720019288917,67
+temporal_external_2025_2026,0,JPN,national,4,no_google_wiki,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5522388059701493,0.15409384090421435,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,4,no_google_wiki,gb_full_raw,Digital gradient-boosting expert,0.3792557954136845,0.1635964242463303,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,4,no_gradient_boosting,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.14805277647324525,0.21927979595595778,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,4,no_gradient_boosting,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6119402985074627,0.20999450790776575,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,4,no_gradient_boosting,ridge_google_wiki,Google/Wikipedia expert,0.24000692501929205,0.24193586748669005,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,4,no_social,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0665648238595228,0.10069829827152012,0.0,0.23549720019288917,67
+temporal_external_2025_2026,0,JPN,national,4,no_social,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5522388059701493,0.15409384090421435,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,4,no_social,gb_full_raw,Digital gradient-boosting expert,0.2823034742503824,0.12473207680962593,0.0,0.5,67
+temporal_external_2025_2026,0,JPN,national,4,no_social,ridge_google_wiki,Google/Wikipedia expert,0.09889289591994557,0.10565017019515795,0.0,0.2601123612469037,67
+temporal_external_2025_2026,0,JPN,national,4,no_source_specific_ridge,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.06850539861616631,0.10141302834067233,0.0,0.23549720019288917,67
+temporal_external_2025_2026,0,JPN,national,4,no_source_specific_ridge,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5522388059701493,0.15409384090421435,0.5,1.0,67
+temporal_external_2025_2026,0,JPN,national,4,no_source_specific_ridge,gb_full_raw,Digital gradient-boosting expert,0.3792557954136845,0.1635964242463303,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,1,base_only,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,67
+temporal_external_2025_2026,0,USA,national,1,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.07985074626865672,0.11683794492962782,0.0,0.5,134
+temporal_external_2025_2026,0,USA,national,1,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.7201492537313433,0.24914284658997873,0.5,1.0,134
+temporal_external_2025_2026,0,USA,national,1,full,gb_full_raw,Digital gradient-boosting expert,0.05,0.05018761791997308,0.0,0.1,134
+temporal_external_2025_2026,0,USA,national,1,full,ridge_global_open,Global open-data expert,0.05,0.05018761791997308,0.0,0.1,134
+temporal_external_2025_2026,0,USA,national,1,full,ridge_google_wiki,Google/Wikipedia expert,0.05,0.05018761791997308,0.0,0.1,134
+temporal_external_2025_2026,0,USA,national,1,full,ridge_social_raw,Social-media expert,0.05,0.05018761791997308,0.0,0.1,134
+temporal_external_2025_2026,0,USA,national,1,no_china_local_search,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.05970149253731343,0.16335470004882507,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,1,no_china_local_search,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.9402985074626866,0.16335470004882513,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,1,no_china_local_search,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_china_local_search,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_china_local_search,ridge_google_wiki,Google/Wikipedia expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_china_local_search,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_full_lstm_expert,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,67
+temporal_external_2025_2026,0,USA,national,1,no_full_lstm_expert,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_full_lstm_expert,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_full_lstm_expert,ridge_google_wiki,Google/Wikipedia expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_full_lstm_expert,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_google_wiki,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.05970149253731343,0.16335470004882507,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,1,no_google_wiki,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.9402985074626866,0.16335470004882513,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,1,no_google_wiki,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_google_wiki,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_google_wiki,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_gradient_boosting,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.05970149253731343,0.16335470004882507,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,1,no_gradient_boosting,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.9402985074626866,0.16335470004882513,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,1,no_gradient_boosting,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_gradient_boosting,ridge_google_wiki,Google/Wikipedia expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_gradient_boosting,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_social,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.05970149253731343,0.16335470004882507,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,1,no_social,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.9402985074626866,0.16335470004882513,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,1,no_social,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_social,ridge_google_wiki,Google/Wikipedia expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,1,no_source_specific_ridge,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.05970149253731343,0.16335470004882507,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,1,no_source_specific_ridge,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.9402985074626866,0.16335470004882513,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,1,no_source_specific_ridge,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,2,base_only,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,67
+temporal_external_2025_2026,0,USA,national,2,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.10570106304037817,0.14130156599223398,0.0,0.5,134
+temporal_external_2025_2026,0,USA,national,2,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6604477611940298,0.23428620011938078,0.5,1.0,134
+temporal_external_2025_2026,0,USA,national,2,full,gb_full_raw,Digital gradient-boosting expert,0.05773177278051736,0.060826428681498734,0.0,0.27308275968815293,134
+temporal_external_2025_2026,0,USA,national,2,full,ridge_global_open,Global open-data expert,0.05,0.05018761791997308,0.0,0.1,134
+temporal_external_2025_2026,0,USA,national,2,full,ridge_google_wiki,Google/Wikipedia expert,0.05,0.05018761791997308,0.0,0.1,134
+temporal_external_2025_2026,0,USA,national,2,full,ridge_social_raw,Social-media expert,0.07611940298507464,0.11116546258537922,0.0,0.5,134
+temporal_external_2025_2026,0,USA,national,2,no_china_local_search,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.11140212608075634,0.20042153854137107,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,2,no_china_local_search,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8208955223880597,0.24154635255824633,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,2,no_china_local_search,gb_full_raw,Digital gradient-boosting expert,0.015463545561034707,0.06187424102407095,0.0,0.27308275968815293,67
+temporal_external_2025_2026,0,USA,national,2,no_china_local_search,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,2,no_china_local_search,ridge_google_wiki,Google/Wikipedia expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,2,no_china_local_search,ridge_social_raw,Social-media expert,0.05223880597014925,0.1540938409042143,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,2,no_full_lstm_expert,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.917910447761194,0.18661690879115483,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,2,no_full_lstm_expert,gb_full_raw,Digital gradient-boosting expert,0.029850746268656716,0.11936057591503141,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,2,no_full_lstm_expert,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,2,no_full_lstm_expert,ridge_google_wiki,Google/Wikipedia expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,2,no_full_lstm_expert,ridge_social_raw,Social-media expert,0.05223880597014925,0.1540938409042143,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,2,no_google_wiki,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.11140212608075634,0.20042153854137107,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,2,no_google_wiki,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8208955223880597,0.24154635255824633,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,2,no_google_wiki,gb_full_raw,Digital gradient-boosting expert,0.015463545561034707,0.06187424102407095,0.0,0.27308275968815293,67
+temporal_external_2025_2026,0,USA,national,2,no_google_wiki,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,2,no_google_wiki,ridge_social_raw,Social-media expert,0.05223880597014925,0.1540938409042143,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,2,no_gradient_boosting,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.12686567164179105,0.21921491430145343,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,2,no_gradient_boosting,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8208955223880597,0.24154635255824633,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,2,no_gradient_boosting,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,2,no_gradient_boosting,ridge_google_wiki,Google/Wikipedia expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,2,no_gradient_boosting,ridge_social_raw,Social-media expert,0.05223880597014925,0.1540938409042143,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,2,no_social,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.11140212608075634,0.20042153854137107,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,2,no_social,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8731343283582089,0.21921491430145346,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,2,no_social,gb_full_raw,Digital gradient-boosting expert,0.015463545561034707,0.06187424102407095,0.0,0.27308275968815293,67
+temporal_external_2025_2026,0,USA,national,2,no_social,ridge_google_wiki,Google/Wikipedia expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,2,no_source_specific_ridge,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.11140212608075634,0.20042153854137107,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,2,no_source_specific_ridge,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8731343283582089,0.21921491430145346,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,2,no_source_specific_ridge,gb_full_raw,Digital gradient-boosting expert,0.015463545561034707,0.06187424102407095,0.0,0.27308275968815293,67
+temporal_external_2025_2026,0,USA,national,3,base_only,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,67
+temporal_external_2025_2026,0,USA,national,3,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0843367759344417,0.10177064719745012,0.0,0.5,134
+temporal_external_2025_2026,0,USA,national,3,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6753731343283582,0.2394971446183183,0.5,1.0,134
+temporal_external_2025_2026,0,USA,national,3,full,gb_full_raw,Digital gradient-boosting expert,0.07545619884032045,0.0847618417934348,0.0,0.5,134
+temporal_external_2025_2026,0,USA,national,3,full,ridge_global_open,Global open-data expert,0.05,0.05018761791997308,0.0,0.1,134
+temporal_external_2025_2026,0,USA,national,3,full,ridge_google_wiki,Google/Wikipedia expert,0.06483389089687966,0.08300122007434085,0.0,0.5,134
+temporal_external_2025_2026,0,USA,national,3,full,ridge_social_raw,Social-media expert,0.05,0.05018761791997308,0.0,0.1,134
+temporal_external_2025_2026,0,USA,national,3,no_china_local_search,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.06867355186888337,0.14273524405569965,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,3,no_china_local_search,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8507462686567164,0.23052846687317474,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,3,no_china_local_search,gb_full_raw,Digital gradient-boosting expert,0.05091239768064092,0.11513012605779983,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,3,no_china_local_search,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,3,no_china_local_search,ridge_google_wiki,Google/Wikipedia expert,0.029667781793759302,0.10663958957363755,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,3,no_china_local_search,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,3,no_full_lstm_expert,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8880597014925373,0.20999450790776572,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,3,no_full_lstm_expert,gb_full_raw,Digital gradient-boosting expert,0.07846913325047387,0.17332555331738517,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,3,no_full_lstm_expert,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,3,no_full_lstm_expert,ridge_google_wiki,Google/Wikipedia expert,0.03347116525698881,0.11097420958456958,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,3,no_full_lstm_expert,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,3,no_google_wiki,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.07197439291177646,0.14573197689904807,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,3,no_google_wiki,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8731343283582089,0.21921491430145346,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,3,no_google_wiki,gb_full_raw,Digital gradient-boosting expert,0.05489127873001458,0.12151926804792712,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,3,no_google_wiki,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,3,no_google_wiki,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,3,no_gradient_boosting,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.10699767800477747,0.1975145658400513,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,3,no_gradient_boosting,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8582089552238806,0.22706910824369939,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,3,no_gradient_boosting,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,3,no_gradient_boosting,ridge_google_wiki,Google/Wikipedia expert,0.03479336677134193,0.11294197865802257,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,3,no_gradient_boosting,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,3,no_social,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.06867355186888337,0.14273524405569965,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,3,no_social,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8507462686567164,0.23052846687317474,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,3,no_social,gb_full_raw,Digital gradient-boosting expert,0.05091239768064092,0.11513012605779983,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,3,no_social,ridge_google_wiki,Google/Wikipedia expert,0.029667781793759302,0.10663958957363755,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,3,no_source_specific_ridge,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.07197439291177646,0.14573197689904807,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,3,no_source_specific_ridge,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8731343283582089,0.21921491430145346,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,3,no_source_specific_ridge,gb_full_raw,Digital gradient-boosting expert,0.05489127873001458,0.12151926804792712,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,4,base_only,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,1.0,0.0,1.0,1.0,67
+temporal_external_2025_2026,0,USA,national,4,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.07242643044484585,0.07934179986618206,0.0,0.5,134
+temporal_external_2025_2026,0,USA,national,4,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6828358208955224,0.24171259868147357,0.5,1.0,134
+temporal_external_2025_2026,0,USA,national,4,full,gb_full_raw,Digital gradient-boosting expert,0.06558152489114734,0.061671348769012674,0.0,0.2783821144659302,134
+temporal_external_2025_2026,0,USA,national,4,full,ridge_global_open,Global open-data expert,0.06323893090836753,0.0791787230474839,0.0,0.5,134
+temporal_external_2025_2026,0,USA,national,4,full,ridge_google_wiki,Google/Wikipedia expert,0.0659172928601169,0.059083857954693335,0.0,0.24211947794886912,134
+temporal_external_2025_2026,0,USA,national,4,full,ridge_social_raw,Social-media expert,0.05,0.05018761791997308,0.0,0.1,134
+temporal_external_2025_2026,0,USA,national,4,no_china_local_search,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.04485286088969171,0.10555557831640966,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,4,no_china_local_search,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8656716417910447,0.22330319028103457,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,4,no_china_local_search,gb_full_raw,Digital gradient-boosting expert,0.03116304978229466,0.0725201787993434,0.0,0.2783821144659302,67
+temporal_external_2025_2026,0,USA,national,4,no_china_local_search,ridge_global_open,Global open-data expert,0.02647786181673506,0.0994476048658364,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,4,no_china_local_search,ridge_google_wiki,Google/Wikipedia expert,0.03183458572023379,0.06838299650609293,0.0,0.24211947794886912,67
+temporal_external_2025_2026,0,USA,national,4,no_china_local_search,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,4,no_full_lstm_expert,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8805970149253731,0.21478587361860144,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,4,no_full_lstm_expert,gb_full_raw,Digital gradient-boosting expert,0.049303095483384324,0.11561992513647276,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,4,no_full_lstm_expert,ridge_global_open,Global open-data expert,0.02647786181673506,0.0994476048658364,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,4,no_full_lstm_expert,ridge_google_wiki,Google/Wikipedia expert,0.04362202777450748,0.09045613492637986,0.0,0.24709416039120355,67
+temporal_external_2025_2026,0,USA,national,4,no_full_lstm_expert,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,4,no_google_wiki,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.055393454683873,0.12131683510184714,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,4,no_google_wiki,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8656716417910447,0.22330319028103457,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,4,no_google_wiki,gb_full_raw,Digital gradient-boosting expert,0.041621470689261336,0.09530887171080997,0.0,0.29003895059923673,67
+temporal_external_2025_2026,0,USA,national,4,no_google_wiki,ridge_global_open,Global open-data expert,0.03731343283582089,0.13238582375759303,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,4,no_google_wiki,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,4,no_gradient_boosting,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.06414423323955197,0.1381524123939153,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,4,no_gradient_boosting,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8656716417910447,0.22330319028103457,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,4,no_gradient_boosting,ridge_global_open,Global open-data expert,0.02647786181673506,0.0994476048658364,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,4,no_gradient_boosting,ridge_google_wiki,Google/Wikipedia expert,0.0437062631526682,0.090066190463923,0.0,0.25290893898812716,67
+temporal_external_2025_2026,0,USA,national,4,no_gradient_boosting,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,0,USA,national,4,no_social,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.04485286088969171,0.10555557831640966,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,4,no_social,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8805970149253731,0.21478587361860144,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,4,no_social,gb_full_raw,Digital gradient-boosting expert,0.03116304978229466,0.0725201787993434,0.0,0.2783821144659302,67
+temporal_external_2025_2026,0,USA,national,4,no_social,ridge_google_wiki,Google/Wikipedia expert,0.043387074402640495,0.11178474185330488,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,4,no_source_specific_ridge,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.055393454683873,0.12131683510184714,0.0,0.5,67
+temporal_external_2025_2026,0,USA,national,4,no_source_specific_ridge,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.9029850746268657,0.19921828233443384,0.5,1.0,67
+temporal_external_2025_2026,0,USA,national,4,no_source_specific_ridge,gb_full_raw,Digital gradient-boosting expert,0.041621470689261336,0.09530887171080997,0.0,0.29003895059923673,67
+temporal_external_2025_2026,1,CHN,national,1,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.28225806451612906,0.24993388866736183,0.0,0.5,62
+temporal_external_2025_2026,1,CHN,national,1,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.7096774193548387,0.24874088000044353,0.5,1.0,62
+temporal_external_2025_2026,1,CHN,national,1,full,gb_full_raw,Digital gradient-boosting expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,1,CHN,national,1,full,ridge_raw_cn_search,China local-search expert,0.008064516129032258,0.06350006350009525,0.0,0.5,62
+temporal_external_2025_2026,1,CHN,national,2,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.2578889443799388,0.2419263746475706,0.0,0.5,62
+temporal_external_2025_2026,1,CHN,national,2,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.7258064516129032,0.25085786183203473,0.5,1.0,62
+temporal_external_2025_2026,1,CHN,national,2,full,gb_full_raw,Digital gradient-boosting expert,0.01630460400715798,0.0555228280534437,0.0,0.20881343209857586,62
+temporal_external_2025_2026,1,CHN,national,2,full,ridge_raw_cn_search,China local-search expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,1,CHN,national,3,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.2585039861422558,0.22937275297257226,0.0,0.5,62
+temporal_external_2025_2026,1,CHN,national,3,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.7096774193548387,0.24874088000044356,0.5,1.0,62
+temporal_external_2025_2026,1,CHN,national,3,full,gb_full_raw,Digital gradient-boosting expert,0.03181859450290548,0.06558855318808256,0.0,0.18026267102497956,62
+temporal_external_2025_2026,1,CHN,national,3,full,ridge_raw_cn_search,China local-search expert,0.0,0.0,0.0,0.0,62
+temporal_external_2025_2026,1,CHN,national,4,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.1973329209544084,0.1813782825642294,0.0,0.5,62
+temporal_external_2025_2026,1,CHN,national,4,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6854838709677419,0.24350364335211408,0.5,1.0,62
+temporal_external_2025_2026,1,CHN,national,4,full,gb_full_raw,Digital gradient-boosting expert,0.06776041811328398,0.08299687993253793,0.0,0.19259361774676545,62
+temporal_external_2025_2026,1,CHN,national,4,full,ridge_raw_cn_search,China local-search expert,0.04942278996456566,0.12659637678597604,0.0,0.5,62
+temporal_external_2025_2026,1,JPN,national,1,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.07712364140280961,0.10302112921027409,0.0,0.23555460336445516,67
+temporal_external_2025_2026,1,JPN,national,1,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5373134328358209,0.1323858237575931,0.5,1.0,67
+temporal_external_2025_2026,1,JPN,national,1,full,gb_full_raw,Digital gradient-boosting expert,0.29416373457788997,0.13218756188438752,0.0,0.5,67
+temporal_external_2025_2026,1,JPN,national,1,full,ridge_google_wiki,Google/Wikipedia expert,0.09139919118347957,0.11090162874638873,0.0,0.29586055594662725,67
+temporal_external_2025_2026,1,JPN,national,2,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.13233892799943395,0.09240357037211154,0.0,0.2545700045007622,67
+temporal_external_2025_2026,1,JPN,national,2,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5447761194029851,0.14384712222561707,0.5,1.0,67
+temporal_external_2025_2026,1,JPN,national,2,full,gb_full_raw,Digital gradient-boosting expert,0.2377791999178668,0.09266813665606094,0.0,0.3828195779131353,67
+temporal_external_2025_2026,1,JPN,national,2,full,ridge_google_wiki,Google/Wikipedia expert,0.08510575267971418,0.09289347981505701,0.0,0.24877690914853026,67
+temporal_external_2025_2026,1,JPN,national,3,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.11071970105467323,0.07621212420761385,0.0,0.22646464144110084,67
+temporal_external_2025_2026,1,JPN,national,3,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5522388059701493,0.15409384090421435,0.5,1.0,67
+temporal_external_2025_2026,1,JPN,national,3,full,gb_full_raw,Digital gradient-boosting expert,0.2514713172753179,0.09634896731695965,0.0,0.41649160114945927,67
+temporal_external_2025_2026,1,JPN,national,3,full,ridge_google_wiki,Google/Wikipedia expert,0.08557017569985963,0.08569263249477795,0.0,0.23615902275763032,67
+temporal_external_2025_2026,1,JPN,national,4,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.05004787542158126,0.08839360732661514,0.0,0.2464641175119676,67
+temporal_external_2025_2026,1,JPN,national,4,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5597014925373134,0.1633547000488251,0.5,1.0,67
+temporal_external_2025_2026,1,JPN,national,4,full,gb_full_raw,Digital gradient-boosting expert,0.25928838852044106,0.12959237751485939,0.0,0.5,67
+temporal_external_2025_2026,1,JPN,national,4,full,ridge_google_wiki,Google/Wikipedia expert,0.13096224352066424,0.11211059568607594,0.0,0.2672086955123842,67
+temporal_external_2025_2026,1,USA,national,1,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.13443047961359883,0.2175970468763594,0.0,0.5,67
+temporal_external_2025_2026,1,USA,national,1,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.7985074626865671,0.24709986774669498,0.5,1.0,67
+temporal_external_2025_2026,1,USA,national,1,full,gb_full_raw,Digital gradient-boosting expert,0.01613415471690909,0.07234807976177235,0.0,0.5,67
+temporal_external_2025_2026,1,USA,national,1,full,ridge_global_open,Global open-data expert,0.011046413456540958,0.05140628563822365,0.0,0.24697056967454128,67
+temporal_external_2025_2026,1,USA,national,1,full,ridge_google_wiki,Google/Wikipedia expert,0.039881489526383956,0.11629301234388728,0.0,0.5,67
+temporal_external_2025_2026,1,USA,national,1,full,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,1,USA,national,2,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.12225817561634811,0.20542587128623718,0.0,0.5,67
+temporal_external_2025_2026,1,USA,national,2,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8582089552238806,0.22706910824369944,0.5,1.0,67
+temporal_external_2025_2026,1,USA,national,2,full,gb_full_raw,Digital gradient-boosting expert,0.0195328691597713,0.06960698025635809,0.0,0.2863636078257616,67
+temporal_external_2025_2026,1,USA,national,2,full,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,1,USA,national,2,full,ridge_google_wiki,Google/Wikipedia expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,1,USA,national,2,full,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,1,USA,national,3,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.0772043670072704,0.15510236852139295,0.0,0.5,67
+temporal_external_2025_2026,1,USA,national,3,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8805970149253731,0.2147858736186015,0.5,1.0,67
+temporal_external_2025_2026,1,USA,national,3,full,gb_full_raw,Digital gradient-boosting expert,0.03548503122429682,0.08602996730446441,0.0,0.2885770791969127,67
+temporal_external_2025_2026,1,USA,national,3,full,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,1,USA,national,3,full,ridge_google_wiki,Google/Wikipedia expert,0.006713586843059659,0.024109718139206444,0.0,0.10830815646149769,67
+temporal_external_2025_2026,1,USA,national,3,full,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,1,USA,national,4,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.06466273914512342,0.14307299884914274,0.0,0.5,67
+temporal_external_2025_2026,1,USA,national,4,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8880597014925373,0.2099945079077658,0.5,1.0,67
+temporal_external_2025_2026,1,USA,national,4,full,gb_full_raw,Digital gradient-boosting expert,0.035998185518546416,0.09392196228801399,0.0,0.5,67
+temporal_external_2025_2026,1,USA,national,4,full,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,1,USA,national,4,full,ridge_google_wiki,Google/Wikipedia expert,0.011279373843792849,0.033579127589223545,0.0,0.13201061738666478,67
+temporal_external_2025_2026,1,USA,national,4,full,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,2,CHN,national,1,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.01560568631693615,0.054849514067508175,0.0,0.24582848582268654,62
+temporal_external_2025_2026,2,CHN,national,1,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8870967741935484,0.2107627607071491,0.5,1.0,62
+temporal_external_2025_2026,2,CHN,national,1,full,gb_full_raw,Digital gradient-boosting expert,0.04569297274213163,0.12322773906831919,0.0,0.5,62
+temporal_external_2025_2026,2,CHN,national,1,full,ridge_raw_cn_search,China local-search expert,0.05160456674738383,0.12012519387421695,0.0,0.5,62
+temporal_external_2025_2026,2,CHN,national,2,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.09577005463186766,0.18008073546818773,0.0,0.5,62
+temporal_external_2025_2026,2,CHN,national,2,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.7016129032258065,0.2472749418763609,0.5,1.0,62
+temporal_external_2025_2026,2,CHN,national,2,full,gb_full_raw,Digital gradient-boosting expert,0.11610150234816573,0.20342823098188267,0.0,0.5,62
+temporal_external_2025_2026,2,CHN,national,2,full,ridge_raw_cn_search,China local-search expert,0.08651553979416017,0.1826455571238415,0.0,0.5,62
+temporal_external_2025_2026,2,CHN,national,3,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.035187759750797805,0.0972982798426583,0.0,0.5,62
+temporal_external_2025_2026,2,CHN,national,3,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6854838709677419,0.24350364335211402,0.5,1.0,62
+temporal_external_2025_2026,2,CHN,national,3,full,gb_full_raw,Digital gradient-boosting expert,0.13313470261662788,0.21581176927671428,0.0,0.5,62
+temporal_external_2025_2026,2,CHN,national,3,full,ridge_raw_cn_search,China local-search expert,0.14619366666483236,0.20578345877458912,0.0,0.5,62
+temporal_external_2025_2026,2,CHN,national,4,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.06773305054670357,0.09790596233460053,0.0,0.5,62
+temporal_external_2025_2026,2,CHN,national,4,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.6693548387096774,0.2385672463725413,0.5,1.0,62
+temporal_external_2025_2026,2,CHN,national,4,full,gb_full_raw,Digital gradient-boosting expert,0.13760595445769103,0.16990300900637853,0.0,0.5,62
+temporal_external_2025_2026,2,CHN,national,4,full,ridge_raw_cn_search,China local-search expert,0.125306156285928,0.18952701096681063,0.0,0.5,62
+temporal_external_2025_2026,2,JPN,national,1,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.07946721172338876,0.08555091968241046,0.0,0.21515512440573809,67
+temporal_external_2025_2026,2,JPN,national,1,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5447761194029851,0.14384712222561707,0.5,1.0,67
+temporal_external_2025_2026,2,JPN,national,1,full,gb_full_raw,Digital gradient-boosting expert,0.290366498890491,0.11397594107033159,0.0,0.5,67
+temporal_external_2025_2026,2,JPN,national,1,full,ridge_google_wiki,Google/Wikipedia expert,0.0853901699831352,0.08497707359486098,0.0,0.23965236398711012,67
+temporal_external_2025_2026,2,JPN,national,2,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.09402450764744381,0.09071749864125847,0.0,0.2453503608159816,67
+temporal_external_2025_2026,2,JPN,national,2,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5522388059701493,0.15409384090421435,0.5,1.0,67
+temporal_external_2025_2026,2,JPN,national,2,full,gb_full_raw,Digital gradient-boosting expert,0.22809296867324572,0.09100905289999996,0.0,0.3903145629054906,67
+temporal_external_2025_2026,2,JPN,national,2,full,ridge_google_wiki,Google/Wikipedia expert,0.12564371770916125,0.10662997821856893,0.0,0.2697247249846005,67
+temporal_external_2025_2026,2,JPN,national,3,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.09406589968783259,0.07826708936124359,0.0,0.23052389459378617,67
+temporal_external_2025_2026,2,JPN,national,3,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5597014925373134,0.1633547000488251,0.5,1.0,67
+temporal_external_2025_2026,2,JPN,national,3,full,gb_full_raw,Digital gradient-boosting expert,0.22906744192005626,0.10029575319730798,0.0,0.4240368413649332,67
+temporal_external_2025_2026,2,JPN,national,3,full,ridge_google_wiki,Google/Wikipedia expert,0.11716516585479772,0.09833747368030286,0.0,0.25734219228814437,67
+temporal_external_2025_2026,2,JPN,national,4,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.09449499026768697,0.1643804867274953,0.0,0.5,67
+temporal_external_2025_2026,2,JPN,national,4,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.5671641791044776,0.17178921166032673,0.5,1.0,67
+temporal_external_2025_2026,2,JPN,national,4,full,gb_full_raw,Digital gradient-boosting expert,0.17929698328843424,0.15734478639127372,0.0,0.5,67
+temporal_external_2025_2026,2,JPN,national,4,full,ridge_google_wiki,Google/Wikipedia expert,0.15904384733940122,0.13373553839863628,0.0,0.333970105190065,67
+temporal_external_2025_2026,2,USA,national,1,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.22068375377482552,0.2149425470608564,0.0,0.5,67
+temporal_external_2025_2026,2,USA,national,1,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.664179104477612,0.2365801117036919,0.5,1.0,67
+temporal_external_2025_2026,2,USA,national,1,full,gb_full_raw,Digital gradient-boosting expert,0.011376619093070174,0.04581172019014423,0.0,0.22039140580540278,67
+temporal_external_2025_2026,2,USA,national,1,full,ridge_global_open,Global open-data expert,0.03529759433898193,0.06920958451018443,0.0,0.17370536686922994,67
+temporal_external_2025_2026,2,USA,national,1,full,ridge_google_wiki,Google/Wikipedia expert,0.06846292831551044,0.11278640881772883,0.0,0.5,67
+temporal_external_2025_2026,2,USA,national,1,full,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,2,USA,national,2,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.13821951629305612,0.2174849635356571,0.0,0.5,67
+temporal_external_2025_2026,2,USA,national,2,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8432835820895522,0.23369488045443057,0.5,1.0,67
+temporal_external_2025_2026,2,USA,national,2,full,gb_full_raw,Digital gradient-boosting expert,0.012857089397083651,0.051531570305694094,0.0,0.23699795429081047,67
+temporal_external_2025_2026,2,USA,national,2,full,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,2,USA,national,2,full,ridge_google_wiki,Google/Wikipedia expert,0.00563981222030799,0.02626026748613016,0.0,0.13173061665027005,67
+temporal_external_2025_2026,2,USA,national,2,full,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,2,USA,national,3,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.1579765318145217,0.21857128103905485,0.0,0.5,67
+temporal_external_2025_2026,2,USA,national,3,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.7985074626865671,0.24709986774669507,0.5,1.0,67
+temporal_external_2025_2026,2,USA,national,3,full,gb_full_raw,Digital gradient-boosting expert,0.03729116829730727,0.10003223341331526,0.0,0.5,67
+temporal_external_2025_2026,2,USA,national,3,full,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,2,USA,national,3,full,ridge_google_wiki,Google/Wikipedia expert,0.006224837201603868,0.02492529466001496,0.0,0.11334083380077174,67
+temporal_external_2025_2026,2,USA,national,3,full,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,2,USA,national,4,full,bioepi_sgq_lstm_full_raw,Full digital SGQ-LSTM,0.12301378014143557,0.19953525012842044,0.0,0.5,67
+temporal_external_2025_2026,2,USA,national,4,full,bioepi_sgq_lstm_no_digital,Surveillance SGQ-LSTM,0.8432835820895522,0.2336948804544306,0.5,1.0,67
+temporal_external_2025_2026,2,USA,national,4,full,gb_full_raw,Digital gradient-boosting expert,0.0247615639230873,0.06829905716249517,0.0,0.24738930751917548,67
+temporal_external_2025_2026,2,USA,national,4,full,ridge_global_open,Global open-data expert,0.0,0.0,0.0,0.0,67
+temporal_external_2025_2026,2,USA,national,4,full,ridge_google_wiki,Google/Wikipedia expert,0.008941073845924888,0.031754009562768484,0.0,0.1270413084070048,67
+temporal_external_2025_2026,2,USA,national,4,full,ridge_social_raw,Social-media expert,0.0,0.0,0.0,0.0,67

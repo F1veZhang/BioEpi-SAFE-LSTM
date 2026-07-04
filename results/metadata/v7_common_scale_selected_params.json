@@ -1,0 +1,8 @@
+{
+  "eta": 0.5,
+  "decay": 0.95,
+  "margin": 0.05,
+  "max_digital": 0.5,
+  "min_resolved": 4,
+  "loss_clip": 5.0
+}

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="508.55576pt" height="196.744683pt" viewBox="0 0 508.55576 196.744683" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-07-04T13:48:48.953507</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 196.744683 
+L 508.55576 196.744683 
+L 508.55576 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="LineCollection_1">
+    <path d="M 9.795 13.431822 
+L 493.134377 13.431822 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #555555; stroke-width: 0.8"/>
+   </g>
+   <g id="LineCollection_2">
+    <path d="M 9.795 16.872714 
+L 9.795 9.990929 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #777777; stroke-width: 0.55"/>
+   </g>
+   <g id="LineCollection_3">
+    <path d="M 51.809497 16.872714 
+L 51.809497 9.990929 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #777777; stroke-width: 0.55"/>
+   </g>
+   <g id="LineCollection_4">
+    <path d="M 93.939102 16.872714 
+L 93.939102 9.990929 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #777777; stroke-width: 0.55"/>
+   </g>
+   <g id="LineCollection_5">
+    <path d="M 135.953599 16.872714 
+L 135.953599 9.990929 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #777777; stroke-width: 0.55"/>
+   </g>
+   <g id="LineCollection_6">
+    <path d="M 177.968096 16.872714 
+L 177.968096 9.990929 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #777777; stroke-width: 0.55"/>
+   </g>
+   <g id="LineCollection_7">
+    <path d="M 219.982593 16.872714 
+L 219.982593 9.990929 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #777777; stroke-width: 0.55"/>
+   </g>
+   <g id="LineCollection_8">
+    <path d="M 262.112198 16.872714 
+L 262.112198 9.990929 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #777777; stroke-width: 0.55"/>
+   </g>
+   <g id="LineCollection_9">
+    <path d="M 304.126695 16.872714 
+L 304.126695 9.990929 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #777777; stroke-width: 0.55"/>
+   </g>
+   <g id="LineCollection_10">
+    <path d="M 346.141192 16.872714 
+L 346.141192 9.990929 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #777777; stroke-width: 0.55"/>
+   </g>
+   <g id="LineCollection_11">
+    <path d="M 388.155689 16.872714 
+L 388.155689 9.990929 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #777777; stroke-width: 0.55"/>
+   </g>
+   <g id="LineCollection_12">
+    <path d="M 430.285294 16.872714 
+L 430.285294 9.990929 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #777777; stroke-width: 0.55"/>
+   </g>
+   <g id="LineCollection_13">
+    <path d="M 472.299791 16.872714 
+L 472.299791 9.990929 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #777777; stroke-width: 0.55"/>
+   </g>
+   <g id="LineCollection_14">
+    <path d="M 178.658745 38.732501 
+L 197.996925 38.732501 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #9e9e9e; stroke-opacity: 0.9; stroke-width: 5"/>
+   </g>
+   <g id="LineCollection_15">
+    <path d="M 198.802682 58.973044 
+L 239.896313 58.973044 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #0072b2; stroke-opacity: 0.9; stroke-width: 5"/>
+   </g>
+   <g id="LineCollection_16">
+    <path d="M 240.702071 79.213587 
+L 282.60146 79.213587 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #0072b2; stroke-opacity: 0.9; stroke-width: 5"/>
+   </g>
+   <g id="LineCollection_17">
+    <path d="M 283.407217 99.45413 
+L 324.500848 99.45413 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #0072b2; stroke-opacity: 0.9; stroke-width: 5"/>
+   </g>
+   <g id="LineCollection_18">
+    <path d="M 325.306606 119.694673 
+L 366.400237 119.694673 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #0072b2; stroke-opacity: 0.9; stroke-width: 5"/>
+   </g>
+   <g id="LineCollection_19">
+    <path d="M 367.205994 139.935216 
+L 408.299626 139.935216 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #0072b2; stroke-opacity: 0.9; stroke-width: 5"/>
+   </g>
+   <g id="LineCollection_20">
+    <path d="M 409.105383 160.17576 
+L 450.199014 160.17576 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #0072b2; stroke-opacity: 0.9; stroke-width: 5"/>
+   </g>
+   <g id="LineCollection_21">
+    <path d="M 451.004772 180.416303 
+L 485.652343 180.416303 
+" clip-path="url(#pd6269ab391)" style="fill: none; stroke: #9e9e9e; stroke-opacity: 0.9; stroke-width: 5"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: start" x="9.795" y="21.787141" transform="rotate(-0 9.795 21.787141)">a</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle" x="9.795" y="6.719062" transform="rotate(-0 9.795 6.719062)">2015</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle" x="51.809497" y="6.719062" transform="rotate(-0 51.809497 6.719062)">2016</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle" x="93.939102" y="6.719062" transform="rotate(-0 93.939102 6.719062)">2017</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle" x="135.953599" y="6.719062" transform="rotate(-0 135.953599 6.719062)">2018</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle" x="177.968096" y="6.719062" transform="rotate(-0 177.968096 6.719062)">2019</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle" x="219.982593" y="6.719062" transform="rotate(-0 219.982593 6.719062)">2020</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle" x="262.112198" y="6.719062" transform="rotate(-0 262.112198 6.719062)">2021</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle" x="304.126695" y="6.719062" transform="rotate(-0 304.126695 6.719062)">2022</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle" x="346.141192" y="6.719062" transform="rotate(-0 346.141192 6.719062)">2023</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle" x="388.155689" y="6.719062" transform="rotate(-0 388.155689 6.719062)">2024</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle" x="430.285294" y="6.719062" transform="rotate(-0 430.285294 6.719062)">2025</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle" x="472.299791" y="6.719062" transform="rotate(-0 472.299791 6.719062)">2026</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 6.5px; font-family: 'Arial'; text-anchor: end" x="176.356581" y="40.526094" transform="rotate(-0 176.356581 40.526094)">2018/2019</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start; fill: #555555" x="200.068872" y="40.332938" transform="rotate(-0 200.068872 40.332938)">partial</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 6.5px; font-family: 'Arial'; text-anchor: end" x="196.500518" y="60.766638" transform="rotate(-0 196.500518 60.766638)">2019/2020</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start; fill: #555555" x="241.968261" y="60.573481" transform="rotate(-0 241.968261 60.573481)">complete</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 6.5px; font-family: 'Arial'; text-anchor: end" x="238.399907" y="81.007181" transform="rotate(-0 238.399907 81.007181)">2020/2021</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start; fill: #555555" x="284.673407" y="80.814024" transform="rotate(-0 284.673407 80.814024)">complete</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 6.5px; font-family: 'Arial'; text-anchor: end" x="281.105053" y="101.247724" transform="rotate(-0 281.105053 101.247724)">2021/2022</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start; fill: #555555" x="326.572796" y="101.054568" transform="rotate(-0 326.572796 101.054568)">complete</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 6.5px; font-family: 'Arial'; text-anchor: end" x="323.004442" y="121.488267" transform="rotate(-0 323.004442 121.488267)">2022/2023</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start; fill: #555555" x="368.472185" y="121.295111" transform="rotate(-0 368.472185 121.295111)">complete</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 6.5px; font-family: 'Arial'; text-anchor: end" x="364.90383" y="141.72881" transform="rotate(-0 364.90383 141.72881)">2023/2024</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start; fill: #555555" x="410.371573" y="141.535654" transform="rotate(-0 410.371573 141.535654)">complete</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 6.5px; font-family: 'Arial'; text-anchor: end" x="406.803219" y="161.969353" transform="rotate(-0 406.803219 161.969353)">2024/2025</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start; fill: #555555" x="452.270962" y="161.776197" transform="rotate(-0 452.270962 161.776197)">complete</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 6.5px; font-family: 'Arial'; text-anchor: end" x="448.702608" y="182.209897" transform="rotate(-0 448.702608 182.209897)">2025/2026</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 5.8px; font-family: 'Arial'; text-anchor: start; fill: #555555" x="487.724291" y="182.01674" transform="rotate(-0 487.724291 182.01674)">partial</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 6.1px; font-family: 'Arial'; text-anchor: start; fill: #444444" x="9.795" y="189.524547" transform="rotate(-0 9.795 189.524547)">Target-week seasons are ISO week 27 to week 26; 4-week purge is retained in source rolling-origin experiments.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd6269ab391">
+   <rect x="9.795" y="2.299523" width="483.339377" height="192.28516"/>
+  </clipPath>
+ </defs>
+</svg>

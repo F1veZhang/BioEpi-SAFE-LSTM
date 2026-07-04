@@ -1,0 +1,12 @@
+project: BioEpi-SAFE-LSTM
+forecast_horizons: [1, 2, 3, 4]
+quantiles: [0.025, 0.10, 0.25, 0.50, 0.75, 0.90, 0.975]
+primary_score: WIS
+bootstrap_replicates: 2000
+bootstrap_block_lengths: [4, 8, 13]
+primary_bootstrap_block_length: 8
+maximum_digital_weight: 0.50
+minimum_resolved_forecasts: 4
+regret_decay: 0.95
+learning_rate_parameter: 0.5
+safety_margin: 0.05
